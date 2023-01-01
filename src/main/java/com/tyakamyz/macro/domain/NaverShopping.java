@@ -11,7 +11,7 @@ public class NaverShopping {
     private final String pw;
     private final String targetUrl;
     /**
-     * Chrome Version : 107.0.5304.88
+     * Chrome Version : 108.0.5359.125(공식 빌드) (64비트)
      * Chrome Version 에 맞는 Driver 설치
      * https://chromedriver.chromium.org/downloads
      */
